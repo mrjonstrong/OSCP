@@ -1,0 +1,23 @@
+Nessus
+https://www.tenable.com/downloads/nessus
+
+Ming C Compiler
+apt-get install mingw-w64
+
+Hyperion (stick with version 1.2 for now, just easier than trying to get 2.0 to compile)
+wget https://github.com/nullsecuritynet/tools/raw/master/binary/hyperion/release/Hyperion-1.2.zip
+unzip Hyperion-1.2.zip 
+i686-w64-mingw32-c++ Hyperion-1.2/Src/Crypter/*.cpp -o hyperion.exe
+  
+Veil
+apt -y install veil
+/usr/share/veil/config/setup.sh --force --silent 
+
+Ettercap
+nano /etc/ettercap/etter.conf
+Under privs, change the values to 0 for ec_uid and gid
+Under linux uncomment un if you use iptables
+
+Andriod SDK
+https://developer.android.com/studio
+Unzip, in /Bin run ./studio.sh and install
