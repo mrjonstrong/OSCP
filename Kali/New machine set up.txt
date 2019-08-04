@@ -1,3 +1,7 @@
+apt-get update
+apt-get upgrade
+apt-get install kali-linux-all
+
 Nessus
 https://www.tenable.com/downloads/nessus
 
