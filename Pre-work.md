@@ -1,4 +1,6 @@
-Title |	Format |	Category |	Link |	Notes
+Title|Format|	Category |	Link |	Notes
+-----------------------
+<table>
 Penetration Testing, A Hands-On Introduction to Hacking	Book |	Everything	| https://www.nostarch.com/pentesting	
 Advanced Penetration Testing |	Video	| Everything |	https://www.cybrary.it/course/advanced-penetration-testing/	
 Hackers Playbook 3 |	Book |	Everything |	https://amzn.to/2KXhlJ5	
@@ -86,3 +88,4 @@ HTB Boxes to Prepare for OSCP (Youtube Playlist)	Video	Everythin	https://www.you
 PentesterLab	Handson	Everything	https://pentesterlab.com/	
 Root-Me.org CTF	Hands on	Everything	https://www.root-me.org/	
 Metasploitable3	Hands on	Everything	https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/	
+</table>
