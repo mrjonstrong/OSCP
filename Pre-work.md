@@ -1,7 +1,7 @@
-Title	Format	Category	Link	Notes
-Penetration Testing, A Hands-On Introduction to Hacking	Book	Everything	https://www.nostarch.com/pentesting	
-Advanced Penetration Testing	Video	Everything	https://www.cybrary.it/course/advanced-penetration-testing/	
-Hackers Playbook 3	Book	Everything	https://amzn.to/2KXhlJ5	
+Title |	Format |	Category |	Link |	Notes
+Penetration Testing, A Hands-On Introduction to Hacking	Book |	Everything	| https://www.nostarch.com/pentesting	
+Advanced Penetration Testing |	Video	| Everything |	https://www.cybrary.it/course/advanced-penetration-testing/	
+Hackers Playbook 3 |	Book |	Everything |	https://amzn.to/2KXhlJ5	
 PentsetLab	Course	Everything	https://pentesterlab.com/bootcamp	
 Hacking, The Art of Exploitation 2nd Edition	Book	Everything	https://nostarch.com/hacking2.htm	
 Network Security Assessment	Book	Everything	https://amzn.to/2JdYMO9	
